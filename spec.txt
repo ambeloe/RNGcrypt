@@ -1,0 +1,13 @@
+
+
+two prngs
+    one representing 0 bits and the other representing 1
+    bit from prng that represents plaintext bit is saved
+        if both prngs match, skip until no match
+
+
+plaintext (1001 | 0110)
+prng0 (110101 | 0011)
+prng1 (001100 | 1100)
+
+ciphertext (010{skip}{skip}0 | 0101)

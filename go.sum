@@ -1,0 +1,10 @@
+github.com/seehuhn/fortuna v1.0.1 h1:lu9+CHsmR0bZnx5Ay646XvCSRJ8PJTi5UYJwDBX68H0=
+github.com/seehuhn/fortuna v1.0.1/go.mod h1:LX8ubejCnUoT/hX+1aKUtbKls2H6DRkqzkc7TdR3iis=
+github.com/seehuhn/sha256d v1.0.0 h1:TXTsAuEWr02QjRm153Fnvvb6fXXDo7Bmy1FizxarGYw=
+github.com/seehuhn/sha256d v1.0.0/go.mod h1:PEuxg9faClSveVuFXacQmi+NtDI/PX8bpKjtNzf2+s4=
+golang.org/x/crypto v0.11.0 h1:6Ewdq3tDic1mg5xRO4milcWCfMVQhI4NkqWWvqejpuA=
+golang.org/x/crypto v0.11.0/go.mod h1:xgJhtzW8F9jGdVFWZESrid1U1bjeNy4zgy5cRr/CIio=
+golang.org/x/sys v0.10.0 h1:SqMFp9UcQJZa+pmYuAKjd9xq1f0j5rLcDIk0mj4qAsA=
+golang.org/x/sys v0.10.0/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
+golang.org/x/term v0.10.0 h1:3R7pNqamzBraeqj/Tj8qt1aQ2HpmlC+Cx/qL/7hn4/c=
+golang.org/x/term v0.10.0/go.mod h1:lpqdcUyK/oCiQxvxVrppt5ggO2KCZ5QblwqPnfZ6d5o=
